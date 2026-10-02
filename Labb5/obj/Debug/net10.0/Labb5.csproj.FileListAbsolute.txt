@@ -1,0 +1,15 @@
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.AssemblyInfoInputs.cache
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.AssemblyInfo.cs
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.csproj.CoreCompileInputs.cache
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\bin\Debug\net10.0\Labb5.exe
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\bin\Debug\net10.0\Labb5.deps.json
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\bin\Debug\net10.0\Labb5.runtimeconfig.json
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\bin\Debug\net10.0\Labb5.dll
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\bin\Debug\net10.0\Labb5.pdb
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.dll
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\refint\Labb5.dll
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.pdb
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.genruntimeconfig.cache
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\ref\Labb5.dll
+C:\Users\svea_\source\repos\YH\C#\LabbUppgifter\Labb5\Labb5\obj\Debug\net10.0\Labb5.csproj.Up2Date
